@@ -26,3 +26,4 @@
 \contentsline {section}{\numberline {5}Functional Decomposition Diagrams}{7}{section.5}%
 \contentsline {section}{\numberline {6}Data Flow and Application Structure}{8}{section.6}%
 \contentsline {section}{\numberline {7}Gantt Chart}{10}{section.7}%
+\contentsline {section}{\numberline {8}Team Member Participation}{10}{section.8}%
